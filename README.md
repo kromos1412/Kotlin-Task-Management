@@ -42,9 +42,5 @@ If you'd like to contribute to the project, feel free to fork the repository, ma
 
 If you encounter any issues or have suggestions for improvement, please open an issue in the [Issue Tracker](https://github.com/your-username/task-management-app/issues).
 
-## License
-
-This Task Management App is open-source and distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your purposes.
-
 ## Author
 [kromos1412](https://github.com/kromos1412)
